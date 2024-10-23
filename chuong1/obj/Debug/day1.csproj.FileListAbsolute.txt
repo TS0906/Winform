@@ -1,0 +1,12 @@
+F:\OOP\day1\bin\Debug\day1.exe.config
+F:\OOP\day1\bin\Debug\day1.exe
+F:\OOP\day1\bin\Debug\day1.pdb
+F:\OOP\day1\obj\Debug\day1.csproj.AssemblyReference.cache
+F:\OOP\day1\obj\Debug\day1.Properties.Resources.resources
+F:\OOP\day1\obj\Debug\day1.csproj.GenerateResource.cache
+F:\OOP\day1\obj\Debug\day1.csproj.CoreCompileInputs.cache
+F:\OOP\day1\obj\Debug\day1.exe
+F:\OOP\day1\obj\Debug\day1.pdb
+F:\OOP\day1\obj\Debug\day1.frmPractice_c1_1.resources
+F:\OOP\day1\obj\Debug\day1.frmPractice_c1_2.resources
+F:\OOP\day1\obj\Debug\day1.frmPractice_c1_3.resources

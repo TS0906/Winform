@@ -1,0 +1,12 @@
+F:\Winform assignment\chuong1\bin\Debug\day1.exe.config
+F:\Winform assignment\chuong1\bin\Debug\day1.exe
+F:\Winform assignment\chuong1\bin\Debug\day1.pdb
+F:\Winform assignment\chuong1\obj\Debug\chuong1.csproj.AssemblyReference.cache
+F:\Winform assignment\chuong1\obj\Debug\day1.frmPractice_c1_1.resources
+F:\Winform assignment\chuong1\obj\Debug\day1.frmPractice_c1_2.resources
+F:\Winform assignment\chuong1\obj\Debug\day1.frmPractice_c1_3.resources
+F:\Winform assignment\chuong1\obj\Debug\day1.Properties.Resources.resources
+F:\Winform assignment\chuong1\obj\Debug\chuong1.csproj.GenerateResource.cache
+F:\Winform assignment\chuong1\obj\Debug\chuong1.csproj.CoreCompileInputs.cache
+F:\Winform assignment\chuong1\obj\Debug\day1.exe
+F:\Winform assignment\chuong1\obj\Debug\day1.pdb
