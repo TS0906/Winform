@@ -81,6 +81,9 @@
     <EmbeddedResource Include="frmPractice_c3_3.resx">
       <DependentUpon>frmPractice_c3_3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice_c3_4.resx">
+      <DependentUpon>frmPractice_c3_4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

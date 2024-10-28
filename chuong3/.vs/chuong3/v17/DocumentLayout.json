@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Winform assignment\\chuong3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\frmpractice_c3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\frmpractice_c3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmPractice_c3_4.cs",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_4.cs",
+              "RelativeDocumentMoniker": "frmPractice_c3_4.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_4.cs",
+              "RelativeToolTip": "frmPractice_c3_4.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:02:05.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPractice_c3_4.cs [Design]",
               "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_4.cs",
               "RelativeDocumentMoniker": "frmPractice_c3_4.cs",
