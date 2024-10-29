@@ -11,3 +11,8 @@ F:\Winform assignment\chuong3\obj\Debug\chuong3.pdb
 F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_2.resources
 F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_3.resources
 F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_4.resources
+F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_5.resources
+F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_6.resources
+F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_7.resources
+F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_8.resources
+F:\Winform assignment\chuong3\obj\Debug\chuong3.frmPractice_c3_9.resources

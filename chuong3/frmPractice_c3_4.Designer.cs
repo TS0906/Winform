@@ -127,7 +127,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmPractice_c3_4";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmPractice_c3_4";
+            this.Text = "Bài thực hành số 3 - Chương 3";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -16,7 +16,7 @@ namespace chuong3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPractice_c3_4());
+            Application.Run(new frmPractice_c3_8());
         }
     }
 }
