@@ -1,0 +1,13 @@
+F:\Winform assignment\chuong4\bin\Debug\chuong4.exe.config
+F:\Winform assignment\chuong4\bin\Debug\chuong4.exe
+F:\Winform assignment\chuong4\bin\Debug\chuong4.pdb
+F:\Winform assignment\chuong4\bin\Debug\Xulychuoikytu.dll
+F:\Winform assignment\chuong4\bin\Debug\Xulychuoikytu.pdb
+F:\Winform assignment\chuong4\obj\Debug\chuong4.csproj.AssemblyReference.cache
+F:\Winform assignment\chuong4\obj\Debug\chuong4.frmXulychuoi.resources
+F:\Winform assignment\chuong4\obj\Debug\chuong4.Properties.Resources.resources
+F:\Winform assignment\chuong4\obj\Debug\chuong4.csproj.GenerateResource.cache
+F:\Winform assignment\chuong4\obj\Debug\chuong4.csproj.CoreCompileInputs.cache
+F:\Winform assignment\chuong4\obj\Debug\chuong4.csproj.Up2Date
+F:\Winform assignment\chuong4\obj\Debug\chuong4.exe
+F:\Winform assignment\chuong4\obj\Debug\chuong4.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace chuong3
+namespace chuong4
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace chuong3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPractice_c3_7());
+            Application.Run(new frmXulychuoi());
         }
     }
 }

@@ -1,0 +1,6 @@
+F:\Winform assignment\Xulychuoikytu\bin\Debug\Xulychuoikytu.dll
+F:\Winform assignment\Xulychuoikytu\bin\Debug\Xulychuoikytu.pdb
+F:\Winform assignment\Xulychuoikytu\obj\Debug\Xulychuoikytu.csproj.AssemblyReference.cache
+F:\Winform assignment\Xulychuoikytu\obj\Debug\Xulychuoikytu.csproj.CoreCompileInputs.cache
+F:\Winform assignment\Xulychuoikytu\obj\Debug\Xulychuoikytu.dll
+F:\Winform assignment\Xulychuoikytu\obj\Debug\Xulychuoikytu.pdb

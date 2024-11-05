@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\Winform assignment\\chuong2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|f:\\winform assignment\\chuong2\\frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|solutionrelative:frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|f:\\winform assignment\\chuong2\\frmpractice_c2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|solutionrelative:frmpractice_c2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|f:\\winform assignment\\chuong2\\frmpractice_c2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|solutionrelative:frmpractice_c2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|F:\\Winform assignment\\chuong2\\frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|solutionrelative:frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|f:\\winform assignment\\chuong2\\frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0215C9AD-BC7A-485F-8B23-800A71417BAA}|chuong2.csproj|solutionrelative:frmpractice_c2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPractice_c2_1.cs",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong2\\frmPractice_c2_1.cs",
+              "RelativeDocumentMoniker": "frmPractice_c2_1.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong2\\frmPractice_c2_1.cs",
+              "RelativeToolTip": "frmPractice_c2_1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:18:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmPractice_c2_2.cs",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong2\\frmPractice_c2_2.cs",
+              "RelativeDocumentMoniker": "frmPractice_c2_2.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong2\\frmPractice_c2_2.cs",
+              "RelativeToolTip": "frmPractice_c2_2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:18:04.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmPractice_c2_3.cs",
               "DocumentMoniker": "F:\\Winform assignment\\chuong2\\frmPractice_c2_3.cs",
               "RelativeDocumentMoniker": "frmPractice_c2_3.cs",
               "ToolTip": "F:\\Winform assignment\\chuong2\\frmPractice_c2_3.cs",
               "RelativeToolTip": "frmPractice_c2_3.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCIAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T07:31:04.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "frmPractice_c2_3.cs [Design]",
               "DocumentMoniker": "F:\\Winform assignment\\chuong2\\frmPractice_c2_3.cs",
               "RelativeDocumentMoniker": "frmPractice_c2_3.cs",

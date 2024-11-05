@@ -30,14 +30,14 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtTruong = new System.Windows.Forms.TextBox();
-            this.cmbNgay = new System.Windows.Forms.ComboBox();
-            this.cmbThang = new System.Windows.Forms.ComboBox();
-            this.cmbNam = new System.Windows.Forms.ComboBox();
             this.rtbInPut = new System.Windows.Forms.RichTextBox();
+            this.cmbNam = new System.Windows.Forms.ComboBox();
+            this.cmbThang = new System.Windows.Forms.ComboBox();
+            this.cmbNgay = new System.Windows.Forms.ComboBox();
+            this.txtTruong = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.btnXem = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.rtbOutPut = new System.Windows.Forms.RichTextBox();
@@ -72,23 +72,44 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Khai báo thông tin";
             // 
-            // label2
+            // rtbInPut
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(84, 30);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 22);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Tên trường";
+            this.rtbInPut.Location = new System.Drawing.Point(219, 143);
+            this.rtbInPut.Name = "rtbInPut";
+            this.rtbInPut.Size = new System.Drawing.Size(309, 96);
+            this.rtbInPut.TabIndex = 7;
+            this.rtbInPut.Text = "";
             // 
-            // label3
+            // cmbNam
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(84, 89);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(127, 22);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Ngày thành lập";
+            this.cmbNam.FormattingEnabled = true;
+            this.cmbNam.Location = new System.Drawing.Point(407, 86);
+            this.cmbNam.Name = "cmbNam";
+            this.cmbNam.Size = new System.Drawing.Size(121, 30);
+            this.cmbNam.TabIndex = 6;
+            // 
+            // cmbThang
+            // 
+            this.cmbThang.FormattingEnabled = true;
+            this.cmbThang.Location = new System.Drawing.Point(309, 86);
+            this.cmbThang.Name = "cmbThang";
+            this.cmbThang.Size = new System.Drawing.Size(55, 30);
+            this.cmbThang.TabIndex = 5;
+            // 
+            // cmbNgay
+            // 
+            this.cmbNgay.FormattingEnabled = true;
+            this.cmbNgay.Location = new System.Drawing.Point(219, 86);
+            this.cmbNgay.Name = "cmbNgay";
+            this.cmbNgay.Size = new System.Drawing.Size(56, 30);
+            this.cmbNgay.TabIndex = 4;
+            // 
+            // txtTruong
+            // 
+            this.txtTruong.Location = new System.Drawing.Point(219, 27);
+            this.txtTruong.Name = "txtTruong";
+            this.txtTruong.Size = new System.Drawing.Size(309, 30);
+            this.txtTruong.TabIndex = 3;
             // 
             // label4
             // 
@@ -99,44 +120,23 @@
             this.label4.TabIndex = 2;
             this.label4.Text = "Ngành đào tạo";
             // 
-            // txtTruong
+            // label3
             // 
-            this.txtTruong.Location = new System.Drawing.Point(219, 27);
-            this.txtTruong.Name = "txtTruong";
-            this.txtTruong.Size = new System.Drawing.Size(309, 30);
-            this.txtTruong.TabIndex = 3;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(84, 89);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(127, 22);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Ngày thành lập";
             // 
-            // cmbNgay
+            // label2
             // 
-            this.cmbNgay.FormattingEnabled = true;
-            this.cmbNgay.Location = new System.Drawing.Point(219, 86);
-            this.cmbNgay.Name = "cmbNgay";
-            this.cmbNgay.Size = new System.Drawing.Size(56, 30);
-            this.cmbNgay.TabIndex = 4;
-            // 
-            // cmbThang
-            // 
-            this.cmbThang.FormattingEnabled = true;
-            this.cmbThang.Location = new System.Drawing.Point(309, 86);
-            this.cmbThang.Name = "cmbThang";
-            this.cmbThang.Size = new System.Drawing.Size(55, 30);
-            this.cmbThang.TabIndex = 5;
-            // 
-            // cmbNam
-            // 
-            this.cmbNam.FormattingEnabled = true;
-            this.cmbNam.Location = new System.Drawing.Point(407, 86);
-            this.cmbNam.Name = "cmbNam";
-            this.cmbNam.Size = new System.Drawing.Size(121, 30);
-            this.cmbNam.TabIndex = 6;
-            // 
-            // rtbInPut
-            // 
-            this.rtbInPut.Location = new System.Drawing.Point(219, 143);
-            this.rtbInPut.Name = "rtbInPut";
-            this.rtbInPut.Size = new System.Drawing.Size(309, 96);
-            this.rtbInPut.TabIndex = 7;
-            this.rtbInPut.Text = "";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(84, 30);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(97, 22);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Tên trường";
             // 
             // btnXem
             // 
