@@ -30,11 +30,11 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.lstWebsite = new System.Windows.Forms.ListBox();
-            this.rtbKetQua = new System.Windows.Forms.RichTextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.txtKetqua = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -67,15 +67,6 @@
             this.lstWebsite.Name = "lstWebsite";
             this.lstWebsite.Size = new System.Drawing.Size(280, 158);
             this.lstWebsite.TabIndex = 1;
-            // 
-            // rtbKetQua
-            // 
-            this.rtbKetQua.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rtbKetQua.Location = new System.Drawing.Point(415, 184);
-            this.rtbKetQua.Name = "rtbKetQua";
-            this.rtbKetQua.Size = new System.Drawing.Size(263, 158);
-            this.rtbKetQua.TabIndex = 2;
-            this.rtbKetQua.Text = "";
             // 
             // label2
             // 
@@ -120,17 +111,25 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.btnThoat_Click);
             // 
+            // txtKetqua
+            // 
+            this.txtKetqua.Location = new System.Drawing.Point(419, 184);
+            this.txtKetqua.Multiline = true;
+            this.txtKetqua.Name = "txtKetqua";
+            this.txtKetqua.Size = new System.Drawing.Size(262, 158);
+            this.txtKetqua.TabIndex = 7;
+            // 
             // frmPractice_c3_7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.ControlBox = false;
+            this.Controls.Add(this.txtKetqua);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.rtbKetQua);
             this.Controls.Add(this.lstWebsite);
             this.Controls.Add(this.label1);
             this.Name = "frmPractice_c3_7";
@@ -145,10 +144,10 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListBox lstWebsite;
-        private System.Windows.Forms.RichTextBox rtbKetQua;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox txtKetqua;
     }
 }

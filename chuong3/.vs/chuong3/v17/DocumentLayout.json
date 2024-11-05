@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\Winform assignment\\chuong3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|F:\\Winform assignment\\chuong3\\frmpractice_c3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\frmpractice_c3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\frmpractice_c3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\frmpractice_c3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|F:\\Winform assignment\\chuong3\\frmpractice_c3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:frmpractice_c3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|f:\\winform assignment\\chuong3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A564-FA01-4BF2-BDC4-79A098FB488B}|chuong3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmPractice_c3_7.cs [Design]",
-              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_7.cs",
-              "RelativeDocumentMoniker": "frmPractice_c3_7.cs",
-              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_7.cs [Design]",
-              "RelativeToolTip": "frmPractice_c3_7.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmPractice_c3_9.cs [Design]",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_9.cs",
+              "RelativeDocumentMoniker": "frmPractice_c3_9.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_9.cs [Design]",
+              "RelativeToolTip": "frmPractice_c3_9.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:04:32.792Z",
+              "WhenOpened": "2024-11-05T06:04:35.785Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmPractice_c3_7.cs",
-              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_7.cs",
-              "RelativeDocumentMoniker": "frmPractice_c3_7.cs",
-              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_7.cs",
-              "RelativeToolTip": "frmPractice_c3_7.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "frmPractice_c3_9.cs",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_9.cs",
+              "RelativeDocumentMoniker": "frmPractice_c3_9.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_9.cs",
+              "RelativeToolTip": "frmPractice_c3_9.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:04:27.039Z",
+              "WhenOpened": "2024-11-05T06:04:34.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmPractice_c3_8.cs [Design]",
-              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\frmPractice_c3_8.cs",
-              "RelativeDocumentMoniker": "frmPractice_c3_8.cs",
-              "ToolTip": "F:\\Winform assignment\\chuong3\\frmPractice_c3_8.cs [Design]",
-              "RelativeToolTip": "frmPractice_c3_8.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Winform assignment\\chuong3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Winform assignment\\chuong3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:52:33.932Z"
+              "WhenOpened": "2024-11-05T06:04:26.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

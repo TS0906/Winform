@@ -15,9 +15,9 @@ namespace chuong3
         public frmPractice_c3_8()
         {
             InitializeComponent();
-            rtbOutPut.ReadOnly = true;
-            rtbOutPut.TabStop = false;
-            rtbOutPut.Enabled = false;
+            txtOutPut.ReadOnly = true;
+            txtOutPut.TabStop = false;
+            txtOutPut.Enabled = false;
             for (int i = 1; i <= 31; i++)
             {
                 cmbNgay.Items.Add(i);
@@ -44,7 +44,9 @@ namespace chuong3
         {
             if (txtTruong !=null && cmbNgay.SelectedItem != null && cmbThang.SelectedItem != null && cmbNam.SelectedItem != null)
             {
-                rtbOutPut.Text = txtTruong.Text + "\n" + $"Ngày {cmbNgay.SelectedItem}, Tháng {cmbThang.SelectedItem}, Năm {cmbNam.SelectedItem}\n" + rtbInPut.Text;
+                txtOutPut.Text = txtTruong.Text + Environment.NewLine +
+                 $"Ngày {cmbNgay.SelectedItem}, Tháng {cmbThang.SelectedItem}, Năm {cmbNam.SelectedItem}" + Environment.NewLine +
+                 rtbInPut.Text;
             }
             else
             {

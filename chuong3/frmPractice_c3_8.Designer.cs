@@ -40,7 +40,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnXem = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
-            this.rtbOutPut = new System.Windows.Forms.RichTextBox();
+            this.txtOutPut = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -160,14 +160,13 @@
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
-            // rtbOutPut
+            // txtOutPut
             // 
-            this.rtbOutPut.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rtbOutPut.Location = new System.Drawing.Point(55, 381);
-            this.rtbOutPut.Name = "rtbOutPut";
-            this.rtbOutPut.Size = new System.Drawing.Size(674, 133);
-            this.rtbOutPut.TabIndex = 4;
-            this.rtbOutPut.Text = "";
+            this.txtOutPut.Location = new System.Drawing.Point(42, 416);
+            this.txtOutPut.Multiline = true;
+            this.txtOutPut.Name = "txtOutPut";
+            this.txtOutPut.Size = new System.Drawing.Size(687, 98);
+            this.txtOutPut.TabIndex = 5;
             // 
             // frmPractice_c3_8
             // 
@@ -175,7 +174,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 526);
             this.ControlBox = false;
-            this.Controls.Add(this.rtbOutPut);
+            this.Controls.Add(this.txtOutPut);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnXem);
             this.Controls.Add(this.groupBox1);
@@ -204,6 +203,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnXem;
         private System.Windows.Forms.Button btnThoat;
-        private System.Windows.Forms.RichTextBox rtbOutPut;
+        private System.Windows.Forms.TextBox txtOutPut;
     }
 }

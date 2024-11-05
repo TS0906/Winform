@@ -15,9 +15,9 @@ namespace chuong3
         public frmPractice_c3_7()
         {
             InitializeComponent();
-            rtbKetQua.ReadOnly = true; 
-            rtbKetQua.TabStop = false;
-            rtbKetQua.Enabled = false;
+            txtKetqua.ReadOnly = true; 
+            txtKetqua.TabStop = false;
+            txtKetqua.Enabled = false;
         }
         private void btnThoat_Click(object sender, EventArgs e)
         {
@@ -31,13 +31,13 @@ namespace chuong3
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-            rtbKetQua.Clear();
+            txtKetqua.Clear();
         }
         private void btnThucHien_Click(object sender, EventArgs e)
         {
             if (lstWebsite.SelectedItem != null)
             {
-                rtbKetQua.Text = $"Website bạn đã chọn là: {lstWebsite.SelectedItem.ToString()}";
+                txtKetqua.Text = $"Website bạn đã chọn là: {lstWebsite.SelectedItem.ToString()}";
             }
             else
             {
