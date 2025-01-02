@@ -1,0 +1,6 @@
+F:\Winform assignment\Xulymang\bin\Debug\Xulymang.dll
+F:\Winform assignment\Xulymang\bin\Debug\Xulymang.pdb
+F:\Winform assignment\Xulymang\obj\Debug\Xulymang.csproj.AssemblyReference.cache
+F:\Winform assignment\Xulymang\obj\Debug\Xulymang.csproj.CoreCompileInputs.cache
+F:\Winform assignment\Xulymang\obj\Debug\Xulymang.dll
+F:\Winform assignment\Xulymang\obj\Debug\Xulymang.pdb

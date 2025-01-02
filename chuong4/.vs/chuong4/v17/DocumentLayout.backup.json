@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\Winform assignment\\chuong4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|F:\\Winform assignment\\chuong4\\frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|solutionrelative:frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|f:\\winform assignment\\chuong4\\frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|solutionrelative:frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|F:\\Winform assignment\\chuong4\\frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9942CFF-B03D-44D7-8DF8-D60CE6B382BD}|chuong4.csproj|solutionrelative:frmxulychuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmXulychuoi.cs [Design]",
               "DocumentMoniker": "F:\\Winform assignment\\chuong4\\frmXulychuoi.cs",
               "RelativeDocumentMoniker": "frmXulychuoi.cs",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmXulychuoi.cs",
               "DocumentMoniker": "F:\\Winform assignment\\chuong4\\frmXulychuoi.cs",
               "RelativeDocumentMoniker": "frmXulychuoi.cs",
               "ToolTip": "F:\\Winform assignment\\chuong4\\frmXulychuoi.cs",
               "RelativeToolTip": "frmXulychuoi.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wDAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T03:56:57.371Z",
               "EditorCaption": ""

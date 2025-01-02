@@ -1,0 +1,15 @@
+F:\Winform assignment\chuong4_3\bin\Debug\chuong4_3.exe.config
+F:\Winform assignment\chuong4_3\bin\Debug\chuong4_3.exe
+F:\Winform assignment\chuong4_3\bin\Debug\chuong4_3.pdb
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.csproj.AssemblyReference.cache
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Form1.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Properties.Resources.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.csproj.GenerateResource.cache
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.csproj.CoreCompileInputs.cache
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.exe
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.pdb
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Bai2_Chuong4.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Bai3_Chuong4.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Bai4_Chuong4.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.Bai5_Chuong4.resources
+F:\Winform assignment\chuong4_3\obj\Debug\chuong4_3.SearchForm.resources
