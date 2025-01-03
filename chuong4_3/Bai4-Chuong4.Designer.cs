@@ -38,6 +38,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtSothaythe = new System.Windows.Forms.TextBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.rdoViri = new System.Windows.Forms.RadioButton();
+            this.rdoGiatri = new System.Windows.Forms.RadioButton();
             this.btnKetqua = new System.Windows.Forms.Button();
             this.rdoGiamdan = new System.Windows.Forms.RadioButton();
             this.rdoTangdan = new System.Windows.Forms.RadioButton();
@@ -50,9 +53,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -134,8 +134,8 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.label6);
-            this.groupBox3.Controls.Add(this.radioButton2);
-            this.groupBox3.Controls.Add(this.radioButton1);
+            this.groupBox3.Controls.Add(this.rdoViri);
+            this.groupBox3.Controls.Add(this.rdoGiatri);
             this.groupBox3.Controls.Add(this.btnThaythe);
             this.groupBox3.Controls.Add(this.txtSothaythe);
             this.groupBox3.Controls.Add(this.txtVitrithaythe);
@@ -147,6 +147,37 @@
             this.groupBox3.TabIndex = 20;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Thay the";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(59, 101);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(116, 22);
+            this.label6.TabIndex = 8;
+            this.label6.Text = "So thay the la";
+            // 
+            // rdoViri
+            // 
+            this.rdoViri.AutoSize = true;
+            this.rdoViri.Location = new System.Drawing.Point(6, 65);
+            this.rdoViri.Name = "rdoViri";
+            this.rdoViri.Size = new System.Drawing.Size(169, 26);
+            this.rdoViri.TabIndex = 7;
+            this.rdoViri.TabStop = true;
+            this.rdoViri.Text = "Vi tri can thay the";
+            this.rdoViri.UseVisualStyleBackColor = true;
+            // 
+            // rdoGiatri
+            // 
+            this.rdoGiatri.AutoSize = true;
+            this.rdoGiatri.Location = new System.Drawing.Point(6, 31);
+            this.rdoGiatri.Name = "rdoGiatri";
+            this.rdoGiatri.Size = new System.Drawing.Size(180, 26);
+            this.rdoGiatri.TabIndex = 7;
+            this.rdoGiatri.TabStop = true;
+            this.rdoGiatri.Text = "Gia tri can thay the";
+            this.rdoGiatri.UseVisualStyleBackColor = true;
             // 
             // btnKetqua
             // 
@@ -276,37 +307,6 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "MANG SO NGUYEN";
             // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(6, 31);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(180, 26);
-            this.radioButton1.TabIndex = 7;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Gia tri can thay the";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(6, 65);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(169, 26);
-            this.radioButton2.TabIndex = 7;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Vi tri can thay the";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(59, 101);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(116, 22);
-            this.label6.TabIndex = 8;
-            this.label6.Text = "So thay the la";
-            // 
             // Bai4_Chuong4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -362,7 +362,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton rdoViri;
+        private System.Windows.Forms.RadioButton rdoGiatri;
     }
 }

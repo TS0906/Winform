@@ -16,7 +16,7 @@ namespace chuong4_3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai5_Chuong4());
+            Application.Run(new Bai4_Chuong4());
         }
     }
 }

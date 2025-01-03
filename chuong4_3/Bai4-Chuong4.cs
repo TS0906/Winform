@@ -137,26 +137,61 @@ namespace chuong4_3
 
         private void btnThaythe_Click(object sender, EventArgs e)
         {
-            int temp = 0;
-            int[] arr = TachMang(txtNhapmang.Text); 
-            int x = int.Parse(txtGiatrithaythe.Text);
-            int y = int.Parse(txtVitrithaythe.Text); 
-            if (arr.Length == 0)
+            int[] arr = TachMang(txtNhapmang.Text);
+            if (arr == null || arr.Length == 0)
             {
-                MessageBox.Show("Mảng rỗng. Vui lòng nhập dãy số hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Mảng trống! Vui lòng nhập và sắp xếp trước.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            temp = arr[x];
-            arr[x] = y;
-            txtSothaythe.Text = temp.ToString();
-            MergeSort(ref arr);
-            if (rdoGiamdan.Checked)
+
+            if (rdoGiatri.Checked)
             {
-                Array.Reverse(arr);
+                if (int.TryParse(txtGiatrithaythe.Text, out int x) &&
+                    int.TryParse(txtSothaythe.Text, out int y))
+                {
+                    bool replaced = false;
+
+                    for (int i = 0; i < arr.Length; i++)
+                    {
+                        if (arr[i] == x)
+                        {
+                            arr[i] = y;
+                            replaced = true;
+                        }
+                    }
+
+                    if (!replaced)
+                    {
+                        MessageBox.Show("Không tìm thấy giá trị cần thay thế!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Vui lòng nhập giá trị hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
+            else if (rdoViri.Checked)
+            {
+                if (int.TryParse(txtVitrithaythe.Text, out int index) &&
+                    int.TryParse(txtSothaythe.Text, out int value))
+                {
+                    if (index >= 0 && index < arr.Length)
+                    {
+                        arr[index] = value;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Vị trí không hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Vui lòng nhập vị trí và giá trị hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+
             txtMangketqua.Text = string.Join("-", arr);
         }
-
         private void btnXoa_Click(object sender, EventArgs e)
         {
             txtMangketqua.Clear();
